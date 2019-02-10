@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Interface</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="google_android_map_api_key">Map API key</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Log out</string>
+    <string name="textview">TextView</string>
+    <string name="logout">logout</string>
+    <string name="rest_port">3000</string>
+    <string name="host">10.200.30.40</string>
+    <string name="title_activity_drawer_navigation">DrawerNavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Oronos Mobile</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="FindMe">
+        <attr name="FindMe" format="string" />
+        <attr name="FindMeDimension" format="dimension" />
+        <attr name="FindMeColor" format="color" />
+        <attr name="FindMeDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

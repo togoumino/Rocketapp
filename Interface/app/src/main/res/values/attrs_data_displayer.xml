@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="DataDisplayers">
+        <attr name="Display" format="string" />
+        <attr name="DisplayDimension" format="dimension" />
+        <attr name="DisplayColor" format="color" />
+        <attr name="DisplayDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

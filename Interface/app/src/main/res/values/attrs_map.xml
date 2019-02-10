@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="Map">
+        <attr name="Map" format="string" />
+        <attr name="MapDimension" format="dimension" />
+        <attr name="MapColor" format="color" />
+        <attr name="MapDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

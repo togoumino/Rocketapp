@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="Rocket">
+        <attr name="name" format="string" />
+        <attr name="id" format="string" />
+        <!--attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" /!-->
+    </declare-styleable>
+</resources>

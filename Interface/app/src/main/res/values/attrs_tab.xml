@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="DualVWidget">
+        <attr name="Tab" format="string" />
+        <attr name="TabDimension" format="dimension" />
+        <attr name="TabColor" format="color" />
+        <attr name="TabDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>

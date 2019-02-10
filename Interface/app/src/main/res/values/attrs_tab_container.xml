@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="TabContainer">
+        <attr name="TabContainer" format="string" />
+        <attr name="TabContainerDimension" format="dimension" />
+        <attr name="TabContainerColor" format="color" />
+        <attr name="TabContainerDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>
